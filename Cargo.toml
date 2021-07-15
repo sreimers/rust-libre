@@ -5,6 +5,7 @@ description = "libre is a Generic library for real-time communications with asyn
 authors = ["Sebastian Reimers"]
 license = "BSD 3-Clause"
 homepage = "https://github.com/baresip/re"
+repository = "https://github.com/sreimers/rust-libre"
 edition = "2018"
 
 [dependencies]
