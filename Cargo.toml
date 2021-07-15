@@ -1,0 +1,10 @@
+[package]
+name = "libre"
+version = "0.0.1"
+description = "libre is a Generic library for real-time communications with async IO support."
+authors = ["Sebastian Reimers"]
+license = "BSD 3-Clause"
+homepage = "https://github.com/baresip/re"
+edition = "2018"
+
+[dependencies]
